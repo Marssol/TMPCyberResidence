@@ -54,7 +54,7 @@ attributes
 	nbOfSingleBeds : Integer
 	nbOfDoubleBeds : Integer
 	isNonSmoking : Boolean
-	nbOfUnits : Integer -- @derived
+	nbOfUnits : Integer -- @derived 
 end
 
 class Person
